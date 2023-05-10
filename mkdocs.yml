@@ -95,6 +95,7 @@ nav:
         - Introduction : pages/introduction.md
         - Rappel : pages/rappel.md
         - Env de travail : pages/environnement_de_travail.md
+        - Process monitoring : pages/process_monitoring.md
     - Cheat sheet:
       - Bash Cheat sheet: pages/cheat_sheet/bash/bash.md
 
