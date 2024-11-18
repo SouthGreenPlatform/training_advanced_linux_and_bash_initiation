@@ -95,7 +95,12 @@ nav:
         - Introduction : pages/introduction.md
         - Rappel : pages/rappel.md
         - Env de travail : pages/environnement_de_travail.md
+        - Lancer plusieurs commandes simultanément : pages/several_commands.md
+        - File format : pages/file_format.md
         - Process monitoring : pages/process_monitoring.md
+        - Expression reguliere : pages/expression_reguliere.md
+        - Des commandes pour rechercher et modifier des fichiers : pages/sed_awk.md
+        
     - Cheat sheet:
       - Bash Cheat sheet: pages/cheat_sheet/bash/bash.md
 

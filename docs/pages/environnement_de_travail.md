@@ -30,3 +30,5 @@ __HPC South Green__
 => itrop (IRD)   `bioinfo-nas.ird.fr`
 
 --8<-- "pages/practice/pratice1.md"
+
+--8<-- "pages/practice/pratice2.md"

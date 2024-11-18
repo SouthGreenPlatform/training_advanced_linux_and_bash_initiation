@@ -1,0 +1,10 @@
+# Various
+**/.DS_Store
+.DS_Store
+.Rproj.user
+
+#compiled site
+site
+
+# tmp pptx file
+~*.pptx
